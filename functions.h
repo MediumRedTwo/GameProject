@@ -1,0 +1,42 @@
+
+void MainMenu();
+void NewGame();
+void NameRandomizer(string &tempname);
+void PickRace();
+void StoryIntroHuman();
+void StoryIntroElf();
+void StoryIntroDwarf();
+void StoryIntro();
+void Camp();
+void StatsMenu();
+void AccEquipName();
+void AccEquip();
+void SaveMenu();
+void InTown();
+void EatFood();
+void SleepTime();
+void CampPotion();
+void Inn();
+void GeneralStore();
+void WeaponStore();
+void ArmorStore();
+void AccessoryStore();
+void Arena();
+void MonsterSetup();
+void CombatSetup();
+void PlayerAttack();
+void EnemyAttack();
+void EnemyMiss();
+void Victory();
+void Defeat();
+void LevelUp();
+void SkillMenu();
+void CombatDecision();
+void ClassCreator();
+// void EnemySetup(string enemyname1, string enemyfirstname1, int enemyhp1, int enemystr1, int enemyexp1, int enemygold1, int hungeruse1, string enemyweapon1);
+
+//Enemy class functions
+void FoxEnemy();
+void RatEnemy();
+void BoarEnemy();
+void BlackBearEnemy();
